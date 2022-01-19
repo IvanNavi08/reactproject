@@ -1,0 +1,59 @@
+.nevs {
+    color: #0940cd;
+}
+.Nev {
+    margin-right: 80px;
+    border: 10px solid rgba(9, 64, 205, 0.34);
+    border-radius: 10px;
+    background-color: rgba(9, 64, 205, 0.32);
+    text-align: justify;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    color: white;
+}
+div,a {
+    color: rgba(9, 64, 205, 0.63);
+}
+
+.foto1 {
+    float: left;
+    margin-right: 5px;
+    width: 100px;
+    height: 120px;
+}
+
+.foto2 {
+    float: right;
+    margin-left: 5px;
+    width: 100px;
+    height: 120px;
+}
+
+.foto3 {
+    width: 600px;
+    height: 400px;
+}
+
+.p2 {
+    text-align: center;
+}
+
+.foto4 {
+    float: right;
+    margin-left: 5px;
+    width: 100px;
+    height: 120px;
+}
+
+.foto5 {
+    display: block;
+    width: 400px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.p3 {
+    text-align: justify;
+}

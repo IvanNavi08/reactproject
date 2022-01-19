@@ -1,0 +1,5 @@
+.post textarea {
+    border-radius: 10px;
+    background-color: rgba(73, 94, 155, 0.51);
+    border: 5px solid #0940cd;
+}

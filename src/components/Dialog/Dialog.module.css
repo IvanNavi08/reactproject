@@ -1,0 +1,10 @@
+.Vmist {
+    display: grid;
+    grid-template-areas: "d m";
+    grid-template-columns: 2fr 10fr;
+    font-size: 50px;
+    border: 10px solid rgba(9, 64, 205, 0.38);
+    border-radius: 3%;
+    background: url("https://pixelbox.ru/upload/file/-/space-wallpaper-9.jpg") no-repeat rgba(9, 64, 205, 0.12);
+    background-size: cover;
+}

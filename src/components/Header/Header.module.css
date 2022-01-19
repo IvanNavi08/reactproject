@@ -1,0 +1,19 @@
+
+.logo {
+    position: relative;
+    width:100px;
+    height: 100px;
+    background-image: url("https://www.meme-arsenal.com/memes/86e87814c9c692a5a333943df9b7cf49.jpg");
+    background-size: 100%;
+    border-radius: 50%;
+    border: 5px solid #120221;
+}
+
+.loginBlock {
+    float: right;
+}
+.logOut {
+    background-color: rgba(9, 64, 205, 0.63);
+    border-radius: 10%;
+}
+

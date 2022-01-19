@@ -1,0 +1,49 @@
+.windovlist {
+    border: 5px solid rgba(9, 64, 205, 0.49);
+    border-radius: 10px;
+    width: 100%;
+    background-color: rgba(58, 96, 192, 0.38);
+    display: grid;
+    grid-template-areas: "fb df";
+
+}
+
+.foto {
+    margin: 20px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.bottom {
+    border-radius: 10px;
+    width: 100px;
+    background-color: rgba(9, 64, 205, 0.85);
+}
+
+.fotobottom {
+    grid-area: fb;
+}
+
+.datafriend {
+    grid-area: df;
+    margin-right: 300px;
+
+}
+
+.data {
+    border: 2px solid rgba(9, 64, 205, 0.85);
+    border-radius: 10px;
+}
+
+.list {
+    font-weight: bold;
+    color: #8c1515;
+    padding: 5px;
+}
+
+.lists {
+    color: rgba(9, 64, 205, 0.85);
+    padding: 5px;
+}
+
